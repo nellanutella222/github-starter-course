@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-Danella was here.
+Danella was here. And she edited this file in VS Code.
 
 ## 🤓 Course overview and learning outcomes 
 
